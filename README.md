@@ -226,13 +226,6 @@ If you find this repository helpful in your research, please cite:
   year         = {2026},
   howpublished = {\url{https://github.com/sunggukcha/awesome-weight-space-programming}}
 }
-
-@article{cha2026function,
-  title   = {Function-Preserving Audits of Visual Weight Readers},
-  author  = {Cha, Sungguk and Kim, Mintae and Han, Youngsub and Jeon, Byoung-Ki and Lee, Sangyeob},
-  journal = {arXiv preprint arXiv:2611.05798v2},
-  year    = {2026}
-}
 ```
 
 ## License
