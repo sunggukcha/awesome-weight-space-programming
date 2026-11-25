@@ -8,20 +8,3 @@ authors:
 repository-code: "https://github.com/sunggukcha/awesome-weight-space-programming"
 url: "https://github.com/sunggukcha/awesome-weight-space-programming"
 license: CC0-1.0
-preferred-citation:
-  type: article
-  title: "Function-Preserving Audits of Visual Weight Readers"
-  authors:
-    - family-names: Cha
-      given-names: Sungguk
-    - family-names: Kim
-      given-names: Mintae
-    - family-names: Han
-      given-names: Youngsub
-    - family-names: Jeon
-      given-names: Byoung-Ki
-    - family-names: Lee
-      given-names: Sangyeob
-  journal: "arXiv preprint arXiv:2611.05798v2"
-  year: 2026
-  url: "https://arxiv.org/abs/2611.05798v2"
